@@ -1,4 +1,4 @@
-# OIBSIP-TASK4
+# OIBSIP-TASK-5
 SALES PREDICTION USING PYTHON - This is a Project completed during my Data Science Internship with OASIS INFOBYTE
 
 The data set can be downloaded from Link :
