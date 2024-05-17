@@ -1,7 +1,7 @@
 # OIBSIP-TASK-5
 SALES PREDICTION USING PYTHON - This is a Project completed during my Data Science Internship with OASIS INFOBYTE
 
-The data set can be downloaded from Link :
+The data set can be downloaded from Link :https://github.com/Govardhanaraokotla/OIB.SIP-TASK5/blob/main/Advertising.csv
 
 #### Name : KOTLA GOVARDHANARAO
 #### Designation : Data Science Intern  
